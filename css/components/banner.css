@@ -1,0 +1,17 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0px;
+}
+
+.banner h1 {
+  color: #373F51;
+  margin: 0;
+  font-size: 60px;
+  line-height: 0.9;
+}
+
+.banner p {
+  color: #373F51;
+  margin: 0 0 40px 0;
+}

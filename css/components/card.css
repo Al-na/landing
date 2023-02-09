@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 250px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  border: gray 1px solid;
+  color: #373F51;
+  box-shadow: 0 0 5px rgb(0 0 0 / 20%);
+}
+
+.card img {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
